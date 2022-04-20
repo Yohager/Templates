@@ -7,9 +7,9 @@ Advanced templates for solving algorithmic problems
 ## Contents
 ---
 - Data Structure 
-  - Sparse Table 稀疏表
+  - [Sparse Table 稀疏表](./src/python/SparseTable.py)
   - [Segment Tree 线段树](./src/python/SegmentTree.py)
-  - Fenwick Tree 树状数组
+  - [Fenwick Tree 树状数组](./src/python/FenwickTree.py)
   - 2-3-4 Tree 2-4树
   - Red-Black Tree 红黑树
   - Splay Tree 伸展树
